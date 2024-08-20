@@ -10,7 +10,7 @@
   2023 - Python, Java
 </div>
 <div align="center">
-  2024 - C++, Go, Assembly
+  2024 - C++, Go, Assembly, Kotlin
 </div>
 
 ---

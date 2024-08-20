@@ -4,13 +4,13 @@
 ---
 
 <div align="center">
-🌱 I’m currently learning Python, C#, Roblox LUA
+🌱 I’m currently learning Python, C#, Roblox LUA, Kotlin
 </div>
 <div align="center">
   2023 - Python, Java
 </div>
 <div align="center">
-  2024 - C++, Go, Assembly, Kotlin
+  2024 - C++, Go, Assembly
 </div>
 
 ---

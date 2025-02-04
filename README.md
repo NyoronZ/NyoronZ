@@ -7,7 +7,7 @@
 🌝
 </div>
 <div align="center">
-  2023 - Python, Java, Roblox LUA
+  <p>2023 - Python, Java, Roblox LUA</p>
   2024 - C++, Go, , Kotlin
   2025 - JavaScript, HTML, SQL, 
 </div>

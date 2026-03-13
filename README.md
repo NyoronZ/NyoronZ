@@ -6,7 +6,7 @@
 <div align="center">
   <p>🌝🌞🌝🌞🌝🌞🌝🌞🌝🌞</p>
   <p>2023 - Python, Java, Roblox LUA</p>
-  <p>2024 - C++, Go, , Kotlin</p>
+  <p>2024 - C++, Assembly, Go, Kotlin</p>
   <p>2025 - JavaScript, HTML, SQL</p>
 </div>
 

@@ -38,11 +38,11 @@
 ---
 
 ### 🚀 Highlights & Projects
-* 🥇 **1st Place, CPE CTF 2026** — Solved high-value challenges in <b>Web Exploitation</b>, <b>Network Analysis</b>, and <b>Digital Forensics</b>.
-* 🛡️ **Certified IT Specialist:** Cybersecurity (Pearson VUE) — Validating core knowledge in security principles and network defense.
-* 🔬 **Security Research:** Comparative analysis of <b>Docker Networking</b> (Bridge vs. Host mode) focusing on security isolation and throughput performance.
+* 🥇 **1st Place, CPE CTF 2026** — Solved high-value challenges in <b>Web Exploitation</b>, <b>Network Analysis</b>, and <b>Digital Forensics</b>. [Link](https://www.facebook.com/share/p/1BQ1b6ZrRz/)
+* 🛡️ **Certified IT Specialist:** Cybersecurity (Pearson VUE) — Validating core knowledge in security principles and network defense. [Link](https://www.credly.com/badges/20c27578-8347-4e51-b7ac-367b4a66dbac/public_url)
+* 🔬 **Security Research:** Comparative analysis of <b>Docker Networking</b> (Bridge vs. Host mode) focusing on security isolation and throughput performance. [Link](https://github.com/NyoronZ/204490_SEC_PROJECT.git)
 * 🧪 **Quality Engineering:** Experienced in <b>TDD/BDD</b> methodologies and <b>Automated Testing</b> using Selenium and pytest.
-* 📱 **StayAlive:** A cross-platform emergency & GPS-based application developed with <b>Flutter & Dart</b>.
+* 📱 **StayAlive:** A cross-platform emergency & GPS-based application developed with <b>Flutter & Dart</b>. [Link](https://github.com/NyoronZ/204311_StayAlive.git)
 
 ---
 

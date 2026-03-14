@@ -15,23 +15,23 @@
   <h3>🛤️ Learning Journey</h3>
   <table align="center">
     <tr>
-      <td align="left"><b>2020-2022</b></td>
+      <td align="center"><b>2020-2022</b></td>
       <td align="left">Started with Game Dev (Roblox Lua, C, C#)</td>
     </tr>
     <tr>
-      <td align="left"><b>2023</b></td>
+      <td align="center"><b>2023</b></td>
       <td align="left">Deep dive into Logic & Scripting (Python, Java)</td>
     </tr>
     <tr>
-      <td align="left"><b>2024</b></td>
+      <td align="center"><b>2024</b></td>
       <td align="left">Systems Programming & Low-level (C++, Assembly, Go)</td>
     </tr>
     <tr>
-      <td align="left"><b>2025</b></td>
+      <td align="center"><b>2025</b></td>
       <td align="left">Web Fundamentals & Data Management (JS, TS, HTML, CSS, SQL)</td>
     </tr>
     <tr>
-      <td align="left"><b>2026</b></td>
+      <td align="center"><b>2026</b></td>
       <td align="left"><b>Software Integrity & Security:</b> Flutter/Dart, Docker Networking, <br>Automation (Selenium, pytest), TDD/BDD, & Cybersec Research</td>
     </tr>
   </table>

@@ -1,13 +1,6 @@
 <div align="center">
   <h3>👋 Hi, I’m N00Bz.dev</h3>
   <p>👀 CS Student @CMU | Cybersecurity Enthusiast | Software Developer</p>
-  <p>
-    Computer Science Student at Chiang Mai University (Expected March 2027)
-
-A dedicated Software Developer with a focus on Application Security and Quality Engineering. I am passionate about building secure, scalable, and well-tested applications. My technical background includes Docker Networking research, Automated Testing (TDD/BDD), and a proven track record in Cybersecurity competitions.
-
-I am currently seeking an Internship where I can contribute my skills in Backend Development, DevSecOps, or Security Engineering to help build robust digital solutions.
-  </p>
 </div>
 
 <br>

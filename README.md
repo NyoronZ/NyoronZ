@@ -13,7 +13,7 @@
 
 <div align="center">
   <h3>🛤️ Learning Journey</h3>
-  <table align="center" border="0">
+  <table align="center">
     <tr>
       <td align="left"><b>2020</b></td>
       <td align="left">Started with Game Dev (Roblox Lua, C, C#)</td>

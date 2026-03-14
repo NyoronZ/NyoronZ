@@ -15,7 +15,7 @@
   <h3>🛤️ Learning Journey</h3>
   <table align="center">
     <tr>
-      <td align="left"><b>2020</b></td>
+      <td align="left"><b>2020-2022</b></td>
       <td align="left">Started with Game Dev (Roblox Lua, C, C#)</td>
     </tr>
     <tr>

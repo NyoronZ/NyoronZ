@@ -1,5 +1,7 @@
-<h3 align="center">👋 Hi, I’m N00Bz.dev</h3>
-<p align="center">👀 CS Student @CMU | Cybersecurity Enthusiast | Software Developer</p>
+<div align="center">
+  <h3>👋 Hi, I’m N00Bz.dev</h3>
+  <p>👀 CS Student @CMU | Cybersecurity Enthusiast | Software Developer</p>
+</div>
 
 <br>
 
@@ -11,7 +13,7 @@
 
 <div align="center">
   <h3>🛤️ Learning Journey</h3>
-  <table align="center">
+  <table align="center" border="0">
     <tr>
       <td align="left"><b>2020</b></td>
       <td align="left">Started with Game Dev (Roblox Lua, C, C#)</td>
@@ -38,11 +40,11 @@
 ---
 
 ### 🚀 Highlights & Projects
-* 🥇 **1st Place, CPE CTF 2026** — Solved high-value challenges in <b>Web Exploitation</b>, <b>Network Analysis</b>, and <b>Digital Forensics</b>.
-* 🛡️ **Certified IT Specialist:** Cybersecurity (Pearson VUE) — Validating core knowledge in security principles and network defense.
-* 🔬 **Security Research:** Comparative analysis of <b>Docker Networking</b> (Bridge vs. Host mode) focusing on security isolation and throughput performance.
+* 🥇 **[1st Place, CPE CTF 2026](https://www.facebook.com/share/p/1BQ1b6ZrRz/)** — Solved high-value challenges in <b>Web Exploitation</b>, <b>Network Analysis</b>, and <b>Digital Forensics</b>.
+* 🛡️ **[Certified IT Specialist](https://www.credly.com/badges/20c27578-8347-4e51-b7ac-367b4a66dbac/public_url)**: Cybersecurity (Pearson VUE) — Validating core knowledge in security principles and network defense.
+* 🔬 **[Security Research](https://github.com/NyoronZ/204490_SEC_PROJECT.git)**: Comparative analysis of <b>Docker Networking</b> (Bridge vs. Host mode) focusing on security isolation and throughput performance.
+* 📱 **[StayAlive](https://github.com/NyoronZ/204311_StayAlive.git)**: A cross-platform emergency & GPS-based application developed with <b>Flutter & Dart</b>.
 * 🧪 **Quality Engineering:** Experienced in <b>TDD/BDD</b> methodologies and <b>Automated Testing</b> using Selenium and pytest.
-* 📱 **StayAlive:** A cross-platform emergency & GPS-based application developed with <b>Flutter & Dart</b>.
 
 ---
 

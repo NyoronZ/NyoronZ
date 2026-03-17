@@ -8,7 +8,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,go,py" /><br>
   <img src="https://skillicons.dev/icons?i=ts,js,html,flutter,dart,robloxstudio" /><br>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,bash,selenium,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,bash,selenium,postgresql" /><br>
 </div>
 
 <div align="center">

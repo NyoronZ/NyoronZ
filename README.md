@@ -6,9 +6,9 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,go,py" /><br>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,flutter,dart,robloxstudio" /><br>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,bash,selenium,postgresql" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,go,py,robloxstudio" /><br>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,flutter,dart,selenium,postman" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,bash,kali,postgresql,mongodb" /><br>
 </div>
 
 <div align="center">

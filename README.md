@@ -45,12 +45,3 @@
 * 🔬 **[Security Research](https://github.com/NyoronZ/204490_SEC_PROJECT.git)**: Comparative analysis of <b>Docker Networking</b> (Bridge vs. Host mode) focusing on security isolation and throughput performance.
 * 📱 **[StayAlive](https://github.com/NyoronZ/204311_StayAlive.git)**: A cross-platform emergency & GPS-based application developed with <b>Flutter & Dart</b>.
 * 🧪 **Quality Engineering:** Experienced in <b>TDD/BDD</b> methodologies and <b>Automated Testing</b> using Selenium and pytest.
-
----
-
-### 📊 My Public Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NyoronZ&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyoronZ&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
